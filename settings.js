@@ -4,22 +4,22 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2348140825959"
-global.ownername = "🕷BADBOI-v2-BUG🕷"
+global.ownernomer = "2349130371354,2349045613439"
+global.ownername = "†ted†"
 global.ytname = "🕷BADBOI-v2-BUG🕷"
 global.socialm = "GitHub: BADBOI-v1"
 global.location = "Africa, Nigeria, Ogun-state"
 
-global.ownernumber = '2348140825959,2348140825959,2348140825959'  //creator number
-global.ownername = '🕷BADBOI-v2-BUG🕷' //owner name
-global.botname = '🕷BADBOI-v2-BUG🕷' //name of the bot
+global.ownernumber = '2349130371354,2349045613439'  //creator number
+global.ownername = '†ted†' //owner name
+global.botname = '†ted†' //name of the bot
 
 //sticker details
-global.packname = 'Sticker By'
-global.author = 'BADBOI HACKER\n\nContact: +2348140825959'
+global.packname = '★'
+global.author = '†ted†'
 
 //console view/theme
-global.themeemoji = '🪀'
+global.themeemoji = '💀'
 global.wm = "BADBOI HACKER Tech."
 
 //theme link
@@ -30,12 +30,12 @@ global.prefa = ['','!','.','#','&']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
-global.autoTyping = true //auto typing
-global.autorecordtype = true //auto typing + recording
+global.autoTyping = false //auto typing
+global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
-global.autobio = true //auto update bio
+global.autobio = false //auto update bio
 global.anti92 = true //auto block +92 
-global.autoswview = true //auto view status/story
+global.autoswview = false //auto view status/story
 
 //menu type 
 //v1 is image menu, 
@@ -53,12 +53,12 @@ global.bimg = '//9j/4AAQSkZJRgABAQAAAQABAAD/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAQw
 //reply messages
 global.mess = {
     done: 'Done !',
-    prem: 'This feature can be used by premium user only or by Badboi hacker 😂😁😂',
+    prem: 'This feature can be used by ted💀',
     admin: 'This feature can be used by admin only',
-    botAdmin: 'This feature can only be used when the bot is a group admin or by Badboi hacker 😂😁😂',
-    owner: 'This feature can be used by owner only or by Badboi hacker 😂😁😂',
+    botAdmin: 'This feature can only be used when the bot is a group admin or by ted💀',
+    owner: 'This feature can be used by owner only or by ted💀',
     group: 'This feature is only for groups',
-    private: 'This feature is only for private chats or by Badboi hacker 😂😁😂',
+    private: 'This feature is only for private chats or by ted💀',
     wait: 'In process... ',    
     error: 'Error!',
 }
